@@ -23,7 +23,7 @@ h2 {
 }
 
 a, a:active, a:visited, a:hover {
-  color: rgb(193, 120, 199);
+  color: rgb(0, 0, 0);
   cursor: pointer;
   text-decoration: none;
 }
