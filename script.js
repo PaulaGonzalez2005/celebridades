@@ -1,9 +1,9 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/cabeza1.png",
-  "../assets/img/cabeza2.png",
-  "../assets/img/cabeza3.png",
-   "../assets/img/cabeza4.png",
+  "../celebridades/assets/img/cabeza1.png",
+  "../celebridades/assets/img/cabeza2.png",
+  "../celebridades/assets/img/cabeza3.png",
+   "../celebridades/assets/img/cabeza4.png",
 ];
 const listaTroncos = [
   "../assets/img/tronco1.png",
